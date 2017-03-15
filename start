@@ -1,0 +1,5 @@
+#!/bin/bash
+git pull  #checks for update
+
+steam steam://run/440 &
+source ./PikaDJ
